@@ -1,0 +1,13 @@
+c:\users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\bin\Debug\FileBridge.exe.config
+c:\users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\bin\Debug\FileBridge.exe
+c:\users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\bin\Debug\FileBridge.pdb
+c:\users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\bin\Debug\FileBridge.xml
+c:\users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\obj\Debug\FileBridge.Resources.resources
+c:\users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\obj\Debug\FileBridge.vbproj.GenerateResource.Cache
+c:\users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\obj\Debug\FileBridge.exe
+c:\users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\obj\Debug\FileBridge.xml
+c:\users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\obj\Debug\FileBridge.pdb
+C:\Users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\bin\Debug\FileBridge.exe.manifest
+C:\Users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\bin\Debug\FileBridge.application
+C:\Users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\obj\Debug\FileBridge.exe.manifest
+C:\Users\berti\documents\visual studio 2013\Projects\FileBridge\FileBridge\obj\Debug\FileBridge.application
