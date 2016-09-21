@@ -11,5 +11,5 @@ Install it, and use the filebridge from your browser like:
 ```
 ## You like my work?
 
-If you like my work, you can buy me a coffee (Donate-Button on my [website](https://berti92.github.io/mega_calendar/)) or try my new browser game:
+If you like my work, you can buy me a coffee [![Paypal Donate](https://img.shields.io/badge/Paypal-donate-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=simplyanamedude@gmail.com&lc=GB&item_name=Andreas%20Treubert&no_note=0&currency_code=EUR&bn=PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest) or try my new browser game:
 <a href="http://sketcharama.com/">Sketcharama (currently only german)</a> 
